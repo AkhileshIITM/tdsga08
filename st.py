@@ -21,4 +21,4 @@ elif num3 > num2:
 else:
 	ans = num2	
 
-st.write(ans + """is the Largest value""")
+st.write(str(ans) + """ is the Largest value""")
